@@ -1,0 +1,14 @@
+@import url('https://dekatutorial.github.io/drk/s.css');
+
+.bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  z-index: -1;
+  margin: 0;
+  padding: 0;
+  background: url('lovee.png') no-repeat center center fixed;
+  background-size: cover;
+}
