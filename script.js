@@ -1,8 +1,9 @@
 // Variabel konfigurasi
 var musik = "https://dekatutorial.github.io/Sezairi%20-%20It's%20You.mp3";
-var background = "IMG_20250209_202623_944.webp"; // Pastikan file ini ada di folder Anda
+var background = "lovee.png"; // Pastikan file ini ada di folder Anda
+
 var ucapanSurat =
-  "Sayang, mungkin aku uda lama ga ngomong ini, tapi thank you buat semua kebaikan, niat baik, apapun yg uda kamu kasi ke aku. Aku sangat sangat grateful bisa lewatin semuanya bareng kamu. Sorry kalo kadang ada diem/bacod aku yg nyebelin, pukul aja. I'll take care of you. Kalo lagi ada apa, atau apa, jangan pendem perasaan kamu yaaa... bilang ajaa.... I'll treat you with the way you want. I love you 3000! Dengerin lagunya yaa";
+  "Sayang, mungkin aku uda lama ga ngomong ini, tapi thank you buat semua kebaikan, niat baik, apapun yg uda kamu kasi ke aku. Aku sangat sangat grateful bisa lewatin semuanya bareng kamu. Sorry kalo kadang ada diem/bacod aku yg nyebelin, pukul aja. I'll take care of you. Kalo lagi ada apa, atau apa, jangan pendem perasaan kamu yaaa... bilang ajaa....  I'll treat you with the way you want. I love you 3000! Dengerin lagunya yaa";
 var pesanWhatsapp = "Hai, aku sudah membaca pesanmu!";
 
 // Fungsi utama
